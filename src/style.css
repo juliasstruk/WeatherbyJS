@@ -157,7 +157,7 @@ form {
 img {
   vertical-align: middle;
   border-style: none;
-  display: block;
+ 
 }
 .temperature {
   color: rgb(33, 33, 33);
@@ -178,4 +178,12 @@ a {
 .col-6 {
   margin-left: 35px;
   display: block;
+}
+
+.code {
+  color: #007bff;
+}
+
+p {
+  text-align: center;
 }
